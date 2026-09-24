@@ -72,3 +72,18 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Custom
+Saved/Crashes/*
+Saved/Logs/*
+Saved/Screenshots/*
+
+Content/__ExternalActors__/*
+Content/__ExternalObjects__/*
+Content/HauntedVillage/*
+Content/Hivemind/*
+Content/Horror_Hospital/*
+Content/SlumAlley/*
+Content/TheCarnival/*
+Content/LucapyAssets
+Content/Mansion
